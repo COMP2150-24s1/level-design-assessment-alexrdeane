@@ -5,26 +5,28 @@
 
 In this level design document I will discuss how my level design achieves the requirements of this assignment with examples to my design techniques and proof of how I iterated through the design to the final version that is currently playable.
 
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
 
-In the below section, I will outline how my level design demonstrates the core player experiences given in the assignment specifications with example imagery and short descriptions of my thinking and why I implemented these designs.
+In the below section, I will outline how my level design demonstrates the core player experiences given in the assignment specifications with example imagery and short descriptions of my thinking and why I implemented these design techniques to add to player experience.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Throughout my level design I create puzzles and obstacles for the player to overcome that are given in each section with various iterations, by repeating similar challenges with new or unique stressors included give the player additional discovery milestones that I aimed to give players of my level. I do this so that the player can learn how the level expects the player to react to an obstacle and solve the puzzle in an expected way that is also rewarding. The puzzles aren't necessarily challenging in complexity but I gradually increase the pressure that the player feels when completing the same or similar puzzles later on. For example below is an image from section 1 of my design:
+Throughout my level design I create puzzles and obstacles for the player to overcome that are given in each section with various iterations, by repeating similar challenges with new or unique stressors included give the player additional discovery milestones that I aimed to give players of my level. I do this so that the player can learn how the level expects the player to react to an obstacle and solve the puzzle in an expected way that is also rewarding. The puzzles aren't necessarily challenging in complexity but I gradually increase the pressure that the player feels when completing the same or similar puzzles later on. 
+
+For example below is an image from section 1 of my design that contains a simple puzzle:
 
 ![This is an image from section 1 that depicts a corridor with a box on the left and a large pillar on the right](DocImages/screen2.PNG)
+
+The solution to this puzzle is to move the box towards the wall on the right which will allow the player to jump onto the box and over the pillar.
+The same puzzle is shown in the image example below however with added stressors of walls and a chomper to occupy the player (I have also added a slow moving spike wall that follows the player but that has not been displayed in the image).
+
+![This is a later version of the same puzzle but with added stressors to the challenge](DocImages/screenSect3box.PNG)
+
+Throughout each section new and continued puzzles are available for the player to discover what I have planned in each section and with each obstacle the player will learn more uses and mechanics that are available that can help to solve these challenges.
+
+
+
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
