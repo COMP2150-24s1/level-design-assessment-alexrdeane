@@ -1,9 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Alexander Deane
+### Student number: 47517514
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
+In this level design document I will discuss how my level design achieves the requirements of this assignment with examples to my design techniques and proof of how I iterated through the design to the final version that is currently playable.
 
 Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
 
@@ -16,10 +16,15 @@ Example:
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+
+In the below section, I will outline how my level design demonstrates the core player experiences given in the assignment specifications with example imagery and short descriptions of my thinking and why I implemented these designs.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+
+Throughout my level design I create puzzles and obstacles for the player to overcome that are given in each section with various iterations, by repeating similar challenges with new or unique stressors included give the player additional discovery milestones that I aimed to give players of my level. I do this so that the player can learn how the level expects the player to react to an obstacle and solve the puzzle in an expected way that is also rewarding. The puzzles aren't necessarily challenging in complexity but I gradually increase the pressure that the player feels when completing the same or similar puzzles later on. For example below is an image from section 1 of my design:
+
+![This is an image from section 1 that depicts a corridor with a box on the left and a large pillar on the right](DocImages/screen2.PNG)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -76,25 +81,3 @@ No additional words are necessary for this section (any words should only be wit
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
-
-## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
