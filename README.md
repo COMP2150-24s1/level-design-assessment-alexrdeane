@@ -17,10 +17,19 @@ Throughout my level I have created puzzles and obstacles for the player to overc
 Below is a puzzle from the first section of my level which requires the player to push a moveable box against a high wall which will create stairs for the player to climb over the tall wall (this is not an up to date image of the level as I changed the design later on).
 
 ![moveable box puzzle to create stairs over wall](DocImages/screen2.PNG)
-![gif version of the above image](DocImages/boxPuzzleSection1.gif)
+**(moveable box puzzle to create stairs over wall)**
 
-There are no stressors added to this puzzle and I have designed the tiles around the puzzle to prevent the player from soft-locking the level or preventing a sollution from being achievable.
-In the below image is the same or similar puzzle but with added stressors of
+![gif version of the above image](DocImages/boxPuzzleSection1.gif)
+**(updated moveable box puzzle to create stairs over wall).**
+
+There are no stressors added to this puzzle and I have designed the platforms around the puzzle to prevent the player from soft-locking the level or preventing a sollution from being achievable.
+
+![same moveable box puzzle from first section but with added stressors in later section](DocImages/screenSect3box.PNG)
+**(same moveable box puzzle to create stairs over wall but with added pressure pad and walls)**
+
+By adding walls and a pressure pad the player discovers that debris slows down movement when pushing the box and that the box will activate pressure pads that it slides onto. This is one example of how my level teaches players how each mechanic and object works within the level and facilitates and encourages learning.
+
+
 
 
 
