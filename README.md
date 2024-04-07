@@ -102,8 +102,6 @@ N/A
 ### 3.4.	Level Map – Section 3
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
-
 Iterative design helped me improve my level throughout the process by allowing me to experiment and tweak obstacles and the environment so that I was able to give the players a target experience.
 
 ![moveable box puzzle to create stairs over wall](DocImages/screen2.PNG)
