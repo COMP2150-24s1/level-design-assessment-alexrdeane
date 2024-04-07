@@ -3,16 +3,28 @@
 ### Name: Alexander Deane
 ### Student number: 47517514
 
-In this level design document I will discuss how my level design achieves the requirements of this assignment with examples to my design techniques and proof of how I iterated through the design to the final version that is currently playable.
+In my level design document I will discuss and explain how my project achieves the requirements of the assignment specifications with examples found in the level and how I iterated through the design to the final version I have submitted.
 
 ## 1. Player Experience (~700 words)
 
-In the below section, I will outline how my level design demonstrates the core player experiences given in the assignment specifications with example imagery and short descriptions of my thinking and why I implemented these design techniques to add to player experience.
+In the below section, I will go into detail explaining my reasoning for using specific design approaches that demonstrate how I have planned my level around core player interactions that give the player target experiences that I wanted to acheive.
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Throughout my level design I create puzzles and obstacles for the player to overcome that are given in each section with various iterations, by repeating similar challenges with new or unique stressors included give the player additional discovery milestones that I aimed to give players of my level. I do this so that the player can learn how the level expects the player to react to an obstacle and solve the puzzle in an expected way that is also rewarding. The puzzles aren't necessarily challenging in complexity but I gradually increase the pressure that the player feels when completing the same or similar puzzles later on. 
+Throughout my level I have created puzzles and obstacles for the player to overcome and solve, these puzzles act as simple barriers that the player must navigate around with a specific or multiple mechanics, or the puzzle will allow the player to get a reward through the keys and health pickups. I have recreated and modified similar puzzles in each section by adding additional stressors such as enemies and spikes which will increase the challenge but also allow the player to discover what mechanics are consistently able to solve puzzles and learn what new mechanics I have intended for them to use in later iterations of the same obstacle.
+
+Below is a puzzle from the first section of my level which requires the player to push a moveable box against a high wall which will create stairs for the player to climb over the tall wall (this is not an up to date image of the level as I changed the design later on).
+
+![moveable box puzzle to create stairs over wall](DocImages/screen2.PNG)
+![gif version of the above image](DocImages/boxPuzzleSection1.gif)
+
+There are no stressors added to this puzzle and I have designed the tiles around the puzzle to prevent the player from soft-locking the level or preventing a sollution from being achievable.
+In the below image is the same or similar puzzle but with added stressors of
+
+
+
+that are given in each section with various iterations, by repeating similar challenges with new or unique stressors included give the player additional discovery milestones that I aimed to give players of my level. I do this so that the player can learn how the level expects the player to react to an obstacle and solve the puzzle in an expected way that is also rewarding. The puzzles aren't necessarily challenging in complexity but I gradually increase the pressure that the player feels when completing the same or similar puzzles later on. 
 
 For example below is an image from section 1 of my design that contains a simple puzzle:
 
